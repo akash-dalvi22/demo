@@ -1,6 +1,2 @@
 echo "This is the first line of the script"
-echo "Welcome to the NetPath Devops"
-echo "We are going to learn git merge"
-echo "This is the last line of the code"
-echo "This is the new line of feature"
-echo "This is patch in feature 1"
+echo "This is the second line of new feature"
